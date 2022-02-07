@@ -1,6 +1,8 @@
 ## Aboud me
 안녕하세요, 오늘을 열심히 사는 박상지입니다.<br> 
-항상 더 나은 내일의 결과를 가져오기 위해 오늘을 열심히 살고 있습니다.
+항상 더 나은 내일의 결과를 가져오기 위해 오늘을 열심히 살고 있습니다. <br><br>
+개인 블로그 : https://comdolidol-i.tistory.com/ <br>
+이메일 : parksangji@gmail.com <br>
 
 ## on-campus project
 
