@@ -19,9 +19,16 @@ https://github.com/parksangji/portfolio_/blob/main/MNIST.docx <br>
 지도 학습 알고리즘을 통한 손글씨 데이터 분석. <br>
 
 4) cow roller coaster <br>
+https://github.com/parksangji/portfolio_/tree/main/computerGraphics <br>
 python3,pil,glfw, numpy을 이용하여 롤로코스터를 연상시키는 그래픽컬한 소 모션 구현.
 
-
 ## toy project
+웹서버 구현 <br>
+사용 스택 : node.js/typescript/mongoose/docker <br>
+https://github.com/parksangji/ts_nodejs_mongodb <br>
+
 
 ## senier project
+지도학습 알고리즘을 이용한 악성 URL 탐지 <br>
+사용 스택: tensorflow/numpy/pandas <br>
+https://github.com/parksangji/malicious_URL_detection
