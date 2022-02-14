@@ -25,11 +25,11 @@ https://github.com/parksangji/portfolio_/tree/main/computerGraphics <br>
 python3,pil,glfw, numpy을 이용하여 롤로코스터를 연상시키는 그래픽컬한 소 모션 구현.
 
 ## toy project
-build rest api with node.js , typescript, mongoose
+1. build rest api with node.js , typescript, mongoose <br>
 사용 스택 : node.js/typescript/mongoose/docker <br>
 https://github.com/parksangji/ts_nodejs_mongodb <br>
 
-build graphql with node.js , typescrpit, typegoose
+2. build graphql with node.js , typescrpit, typegoose <br>
 사용 스택 : node.js/typescript/typegoose/typegraphql <br>
 https://github.com/parksangji/ts_Nodejs_GraphQL <br>
 
